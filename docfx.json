@@ -14,6 +14,7 @@
     }
   ],
   "build": {
+    "output": "_site",
     "template": [
       "default",
       "modern",
@@ -54,7 +55,7 @@
         ]
       }
     ],
-    "dest": "_site",
+    "dest": ".",
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
