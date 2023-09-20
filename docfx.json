@@ -14,6 +14,7 @@
     }
   ],
   "build": {
+    "output": "_site",
     "template": [
       "default",
       "modern",
