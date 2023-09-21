@@ -2,6 +2,7 @@
   href: data/index.md
   items:
     - name: Items
+      href: data/objects/item-list.md
       items:
         - name: Full Item List
           href: data/objects/item-list.md
