@@ -1,5 +1,18 @@
 - name: Sunkenland Data
   href: data/index.md
+  items:
+    - name: Items
+      items:
+        - name: Full Item List
+          href: data/objects/item-list.md
+        - name: Craft-able Items
+          href: data/objects/craftableitem-list.md
+    - name: Building Pieces
+      href: data/pieces/piece-list.md
+    - name: Shaders
+      href: data/prefabs/shader-list.md
+    - name: Sprite Sheets
+      href: data/gui/sprite-list.md
 - name: Modding Discord
   href: https://mee6.xyz/i/TBXOoQJ8gE
 - name: Modding GitHub
