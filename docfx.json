@@ -10,11 +10,11 @@
       ],
       "dest": "data",
       "disableGitFeatures": false,
-      "disableDefaultFilter": false
+      "disableDefaultFilter": true
     }
   ],
   "globalMetadata": {
-    "_appLogoPath": "images/logo.svg"
+    "_appLogoPath": "../images/logo.svg"
   },
   "build": {
     "output": "_site",
@@ -31,7 +31,8 @@
           "articles/**.md",
           "articles/**/toc.yml",
           "toc.yml",
-          "**/*.md"
+          "**/*.md",
+          "images/**"
         ]
       }
     ],
