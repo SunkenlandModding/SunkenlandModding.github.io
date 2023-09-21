@@ -1,6 +1,8 @@
 - name: Sunkenland Data
-  href: api/Docs/
-- name: Discord
+  href: data/Docs/index.md
+- name: Modding Discord
   href: https://mee6.xyz/i/TBXOoQJ8gE
-- name: GitHub
+- name: Modding GitHub
   href: https://github.com/SunkenlandModding
+- name: Official Discord
+  href: https://discord.gg/8vPaqqVch5
