@@ -15,17 +15,13 @@
   ],
   "build": {
     "output": "_site",
-    "template": [
-      "default",
-      "modern",
-      "templates/darkfx"
-    ],
     "content": [
       {
         "files": [
           "api/**.yml",
           "api/index.md",
-          "api/**/*.md"
+          "api/**/*.md",
+          "api/**/*.png"
         ]
       },
       {
@@ -34,14 +30,15 @@
           "articles/**/toc.yml",
           "toc.yml",
           "**/*.md",
-          "**/*.png"
+          "api/**/*.png"
         ]
       }
     ],
     "resource": [
       {
         "files": [
-          "images/**"
+          "images/**",
+          "api/Docs/images/**"
         ]
       }
     ],
@@ -61,14 +58,13 @@
     "fileMetadataFiles": [],
     "template": [
       "default",
-      "modern",
       "templates/darkfx"
     ],
     "postProcessors": [],
     "markdownEngineName": "markdig",
     "noLangKeyword": false,
     "keepFileLink": false,
-    "cleanupCacheHistory": false,
+    "cleanupCacheHistory": true,
     "disableGitFeatures": false
   }
 }
