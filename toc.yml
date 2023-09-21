@@ -10,6 +10,8 @@
           href: data/objects/craftableitem-list.md
     - name: Building Pieces
       href: data/pieces/piece-list.md
+    - name: NPCs
+      href: data/prefabs/character-list.md
     - name: Shaders
       href: data/prefabs/shader-list.md
     - name: Sprite Sheets
