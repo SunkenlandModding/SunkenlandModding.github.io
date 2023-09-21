@@ -48,6 +48,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "api/Docs/data/prefabs/shader-list.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/Docs/data/prefabs/shader-list.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "api/Docs/index.md",
       "output": {
         ".html": {
