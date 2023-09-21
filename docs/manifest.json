@@ -28,60 +28,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "data/Docs/data/gui/sprite-list.md",
+      "source_relative_path": "data/gui/sprite-list.md",
       "output": {
         ".html": {
-          "relative_path": "data/Docs/data/gui/sprite-list.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "data/Docs/data/objects/craftableitem-list.md",
-      "output": {
-        ".html": {
-          "relative_path": "data/Docs/data/objects/craftableitem-list.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "data/Docs/data/objects/item-list.md",
-      "output": {
-        ".html": {
-          "relative_path": "data/Docs/data/objects/item-list.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "data/Docs/data/pieces/piece-list.md",
-      "output": {
-        ".html": {
-          "relative_path": "data/Docs/data/pieces/piece-list.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "data/Docs/data/prefabs/shader-list.md",
-      "output": {
-        ".html": {
-          "relative_path": "data/Docs/data/prefabs/shader-list.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "data/Docs/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "data/Docs/index.html"
+          "relative_path": "data/gui/sprite-list.html"
         }
       },
       "version": ""
@@ -92,6 +42,52 @@
       "output": {
         ".html": {
           "relative_path": "data/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "data/objects/craftableitem-list.md",
+      "output": {
+        ".html": {
+          "relative_path": "data/objects/craftableitem-list.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "data/objects/item-list.md",
+      "output": {
+        ".html": {
+          "relative_path": "data/objects/item-list.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "data/pieces/piece-list.md",
+      "output": {
+        ".html": {
+          "relative_path": "data/pieces/piece-list.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "data/prefabs/shader-list.md",
+      "output": {
+        ".html": {
+          "relative_path": "data/prefabs/shader-list.html"
         }
       },
       "version": ""
