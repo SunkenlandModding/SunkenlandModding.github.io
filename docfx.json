@@ -13,11 +13,11 @@
       "disableDefaultFilter": false
     }
   ],
+  "globalMetadata": {
+    "_appLogoPath": "images/logo.svg"
+  },
   "build": {
     "output": "_site",
-    "globalMetadata": {
-      "_appLogoPath": "logo.svg"
-    },
     "content": [
       {
         "files": [
@@ -39,10 +39,9 @@
       {
         "files": [
           "images/**",
-          "logo.svg",
-          "favicon.ico"
-        ],
-        "src": "data"
+          "images/logo.svg",
+          "images/favicon.ico"
+        ]
       }
     ],
     "overwrite": [
@@ -59,10 +58,7 @@
     "dest": "_site",
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
-    "template": [
-      "default",
-      "modern"
-    ],
+    "template": ["default", "modern"],
     "postProcessors": [],
     "markdownEngineName": "markdig",
     "noLangKeyword": false,
