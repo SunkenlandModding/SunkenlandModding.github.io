@@ -1,5 +1,4 @@
 {
-  "homepages": [],
   "source_base_path": "/home/runner/work/SunkenlandModding.github.io/SunkenlandModding.github.io",
   "xrefmap": "xrefmap.yml",
   "files": [
@@ -492,6 +491,26 @@
       "output": {
         "resource": {
           "relative_path": "images/items/A5_GP20.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/items/A6 Mauser Pistol.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/items/A6 Mauser Pistol.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/items/A7 DEG 45.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/items/A7 DEG 45.png"
         }
       },
       "version": ""
@@ -1118,6 +1137,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/items/Blueprint Leather Suitcase.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/items/Blueprint Leather Suitcase.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/items/Blueprint Log Desk.png",
       "output": {
         "resource": {
@@ -1558,6 +1587,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/items/Broken LW 59.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/items/Broken LW 59.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/items/Broken M14.png",
       "output": {
         "resource": {
@@ -1572,6 +1611,16 @@
       "output": {
         "resource": {
           "relative_path": "images/items/Broken M16.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/items/Broken Mauser Pistol.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/items/Broken Mauser Pistol.png"
         }
       },
       "version": ""
@@ -1648,6 +1697,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/items/Broken STG44.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/items/Broken STG44.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/items/Broken Special Force Armor.png",
       "output": {
         "resource": {
@@ -1692,6 +1751,16 @@
       "output": {
         "resource": {
           "relative_path": "images/items/Broken Tactical Vest.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/items/Broken US45 SMG.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/items/Broken US45 SMG.png"
         }
       },
       "version": ""
@@ -3218,6 +3287,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/items/LW 59.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/items/LW 59.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/items/Lamp Table.png",
       "output": {
         "resource": {
@@ -4448,6 +4527,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/items/STG44.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/items/STG44.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/items/Sand Watch.png",
       "output": {
         "resource": {
@@ -5188,6 +5277,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/items/US45 SMG.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/items/US45 SMG.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/items/V Scrub Shirt A.png",
       "output": {
         "resource": {
@@ -5342,6 +5441,16 @@
       "output": {
         "resource": {
           "relative_path": "images/items/Weighing Scale.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/items/Welding.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/items/Welding.png"
         }
       },
       "version": ""
@@ -6468,6 +6577,26 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/pieces/Half Metal Stairs.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/pieces/Half Metal Stairs.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/pieces/Half Wooden Stairs.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/pieces/Half Wooden Stairs.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/pieces/Hanging Clocks.png",
       "output": {
         "resource": {
@@ -6622,6 +6751,16 @@
       "output": {
         "resource": {
           "relative_path": "images/pieces/Large Generator.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/pieces/Leather Suitcase.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/pieces/Leather Suitcase.png"
         }
       },
       "version": ""
@@ -6958,6 +7097,26 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/+.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/+.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/0.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/0.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/1.png",
       "output": {
         "resource": {
@@ -6982,6 +7141,76 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/7.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/8.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/9.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/A.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/A.png"
         }
       },
       "version": ""
@@ -7038,6 +7267,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/B.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/B.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/BOOK1 1.png",
       "output": {
         "resource": {
@@ -7062,6 +7301,16 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/BOOK2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Back.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Back.png"
         }
       },
       "version": ""
@@ -7122,6 +7371,16 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/Background.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Backslash.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Backslash.png"
         }
       },
       "version": ""
@@ -7208,10 +7467,30 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/C.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/C.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/Campfire.png",
       "output": {
         "resource": {
           "relative_path": "images/sprites/Campfire.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Caps.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Caps.png"
         }
       },
       "version": ""
@@ -7248,6 +7527,26 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/Clear.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Clear.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Comma.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Comma.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/Crafting.png",
       "output": {
         "resource": {
@@ -7262,6 +7561,26 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/CustomCursorSprite_0.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/D.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/D.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Delete.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Delete.png"
         }
       },
       "version": ""
@@ -7298,10 +7617,30 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/DownArrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/DownArrow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/Dreadville.png",
       "output": {
         "resource": {
           "relative_path": "images/sprites/Dreadville.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Drifting bottle.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Drifting bottle.png"
         }
       },
       "version": ""
@@ -7318,10 +7657,220 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/E.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/E.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/ESC.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/ESC.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/Eating.png",
       "output": {
         "resource": {
           "relative_path": "images/sprites/Eating.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/End.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/End.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Enter.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Enter.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Equal.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Equal.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F10.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F10.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F11.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F11.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F12.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F12.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F13.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F13.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F14.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F14.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F15.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F15.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F7.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F8.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/F9.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/F9.png"
         }
       },
       "version": ""
@@ -7352,6 +7901,16 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/FusionPrototypeWhitePixel.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/G.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/G.png"
         }
       },
       "version": ""
@@ -7408,6 +7967,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/H.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/H.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/HeadShot 1.png",
       "output": {
         "resource": {
@@ -7428,10 +7997,40 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/Help.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Help.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Home.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Home.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/Hunger_Normal.png",
       "output": {
         "resource": {
           "relative_path": "images/sprites/Hunger_Normal.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/I.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/I.png"
         }
       },
       "version": ""
@@ -7518,6 +8117,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/Insert.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Insert.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/Island 2.png",
       "output": {
         "resource": {
@@ -7538,6 +8147,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/J.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/J.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/JiaSuDian.png",
       "output": {
         "resource": {
@@ -7552,6 +8171,16 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/JiaSuTiao.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/K.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/K.png"
         }
       },
       "version": ""
@@ -7648,6 +8277,86 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/KeypadDivide.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/KeypadDivide.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/KeypadEnter.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/KeypadEnter.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/KeypadEqual.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/KeypadEqual.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/KeypadMinus.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/KeypadMinus.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/KeypadMultiply.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/KeypadMultiply.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/KeypadNum.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/KeypadNum.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/KeypadPeriod.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/KeypadPeriod.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/KeypadPlus.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/KeypadPlus.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/Knob.png",
       "output": {
         "resource": {
@@ -7662,6 +8371,76 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/Kraken1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/L Alt.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/L Alt.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/L Ctrl.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/L Ctrl.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/L Shift.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/L Shift.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/L Win.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/L Win.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/L.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/L.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/LeftArrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/LeftArrow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/LeftBracket.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/LeftBracket.png"
         }
       },
       "version": ""
@@ -7788,6 +8567,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/M.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/M.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/MG GUNNER.png",
       "output": {
         "resource": {
@@ -7828,10 +8617,30 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/Menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Menu.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/MetalScrapMaterial.png",
       "output": {
         "resource": {
           "relative_path": "images/sprites/MetalScrapMaterial.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Minus.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Minus.png"
         }
       },
       "version": ""
@@ -7848,10 +8657,100 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/Mouse 3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Mouse 3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Mouse 4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Mouse 4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Mouse 5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Mouse 5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Mouse 6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Mouse 6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Mouse Left.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Mouse Left.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Mouse Middle.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Mouse Middle.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Mouse Right.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Mouse Right.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/N.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/N.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/New order brotherhood.png",
       "output": {
         "resource": {
           "relative_path": "images/sprites/New order brotherhood.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Not Assigned.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Not Assigned.png"
         }
       },
       "version": ""
@@ -7868,10 +8767,170 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/Num0.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Num0.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Num1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Num1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Num2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Num2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Num3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Num3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Num4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Num4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Num5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Num5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Num6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Num6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Num7.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Num7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Num8.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Num8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Num9.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Num9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/O.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/O.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/P.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/P.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/PageDown.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/PageDown.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/PageUp.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/PageUp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/Paper2.png",
       "output": {
         "resource": {
           "relative_path": "images/sprites/Paper2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Pause.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Pause.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Period.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Period.png"
         }
       },
       "version": ""
@@ -7888,6 +8947,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/Plus.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Plus.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/Police Station.png",
       "output": {
         "resource": {
@@ -7898,10 +8967,110 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/Print.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Print.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/Ps4.png",
       "output": {
         "resource": {
           "relative_path": "images/sprites/Ps4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Q.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Q.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Question.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Question.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Quote Double.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Quote Double.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Quote2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Quote2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/R Alt.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/R Alt.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/R Ctrl.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/R Ctrl.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/R Shift.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/R Shift.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/R Win.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/R Win.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/R.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/R.png"
         }
       },
       "version": ""
@@ -7938,6 +9107,26 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/RightArrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/RightArrow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/RightBracket.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/RightBracket.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/RopeMaterial.png",
       "output": {
         "resource": {
@@ -7952,6 +9141,16 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/Running.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/S.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/S.png"
         }
       },
       "version": ""
@@ -8048,6 +9247,26 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/ScrLk.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/ScrLk.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Semicolon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Semicolon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/SharpPanel01.png",
       "output": {
         "resource": {
@@ -8098,6 +9317,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/Slash.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Slash.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/Slavers.png",
       "output": {
         "resource": {
@@ -8122,6 +9351,16 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/Soda Can.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Space.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Space.png"
         }
       },
       "version": ""
@@ -8172,6 +9411,26 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/Sunken ship.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/T.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/T.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Tab.png"
         }
       },
       "version": ""
@@ -8238,6 +9497,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/U.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/U.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/UIMask.png",
       "output": {
         "resource": {
@@ -8252,6 +9521,36 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/UISprite.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/UpArrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/UpArrow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/V.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/V.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/W.png"
         }
       },
       "version": ""
@@ -8288,6 +9587,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/X.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/X.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/Xbox Chinese.png",
       "output": {
         "resource": {
@@ -8302,6 +9611,26 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/Xbox.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Y.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Y.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/Z.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/Z.png"
         }
       },
       "version": ""
@@ -8442,6 +9771,16 @@
       "output": {
         "resource": {
           "relative_path": "images/sprites/discord2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sprites/ducky flag.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/ducky flag.png"
         }
       },
       "version": ""
@@ -9018,6 +10357,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/mouse button middle.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/mouse button middle.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/mouse button right.png",
       "output": {
         "resource": {
@@ -9188,6 +10537,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/trash 1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/trash 1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sprites/trash 2.png",
       "output": {
         "resource": {
@@ -9238,6 +10597,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/sprites/~.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/sprites/~.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/sunkenland.png",
       "output": {
         "resource": {
@@ -9270,7 +10639,6 @@
       "version": ""
     }
   ],
-  "version_info": {},
   "groups": [
     {
       "xrefmap": "xrefmap.yml"
