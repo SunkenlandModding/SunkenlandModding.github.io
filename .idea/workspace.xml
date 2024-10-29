@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a717b794-57e1-417e-81ed-fc87ec1132ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/layout/_master.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/partials/footer.tmpl.partial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/partials/head.tmpl.partial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/partials/li.tmpl.partial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/partials/logo.tmpl.partial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/partials/namespace.tmpl.partial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/partials/navbar.tmpl.partial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/partials/scripts.tmpl.partial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/partials/searchResults.tmpl.partial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/partials/toc.tmpl.partial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/styles/config.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/styles/down-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/styles/jquery.twbsPagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/styles/jquery.twbsPagination.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/styles/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/styles/singulink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/styles/singulink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/styles/url.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singulinkfx/toc.html.primary.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gui/sprite-list.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/gui/sprite-list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/objects/craftableitem-list.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/craftableitem-list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/objects/item-list.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/item-list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pieces/piece-list.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/pieces/piece-list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/prefabs/character-list.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/prefabs/character-list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/prefabs/shader-list.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/prefabs/shader-list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/A2 Helmet Football.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/A2B_Iron Axe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/A4_Iron Spear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/B6 Army Vest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Blueprint 50 Cal Ammo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Blueprint Antique Flintlock Pistol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Blueprint Helicopter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Blueprint Ore Detector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Blueprint Paint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Broken Army Helmet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Broken Footbal Helmet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Broken Tactical Armor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Broken Tactical Vest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/C1 Tactical Vest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/C2 Army Helmet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/D2 TShirt_Pads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/DEG 45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Helicopter Console.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/items/Helicopter Console.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Iron Mace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Iron Sword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Leather Suitcase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Leather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Machete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Marlin Fish Skin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Roasted Meat.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/items/Roasted Meat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Skull Crusher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Stone Hatchet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/UNDERWATER SCOOTER.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/V Scrub Shirt A.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/items/V Scrub Shirt A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/items/Welding.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/items/Welding.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/A0_Simple Bed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/A1Marker Flag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/A1_Paddle Boat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/A1_Wooden Foundation.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/A1_Wooden Foundation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/A2_Metal Foundation.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/A2_Metal Foundation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/A_Standing Torch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Armchair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/B1_Wooden Chest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/B2_Metal Chest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/B2_Reinforced Foundation.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/B2_Reinforced Foundation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/B3_Ammo Box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/B4_Food Container.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/B5_ToolBox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/B6_Metal Barrel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/B7_Fridge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/B_Fire Bowl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/B_Sail Boat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Backrest Chair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Black Leather Chair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Black Leather Couch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Blue Patterned Chair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/C5 Small Generator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/C_Hanging Lantern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/C_Motor Boat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Campfire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Chaise Leather Couch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Collection Cabinet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Concave Cabinet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Counter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Crystal Chandelier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/D1_Barricade.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/D1_Barricade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/D1_Buoy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/D1_Wooden Shelving.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/D2_Floor Lamp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/D2_Reinforced Barricade.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/D2_Reinforced Barricade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/D3_Ceiling Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/D3_Metal Shelving.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/D_JetSki.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Desk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Double Door Wardrobe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Double Shelf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/E1_WoodenWall.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/E1_WoodenWall.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/E2_WoodenWallWithDoorSlot.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/E2_WoodenWallWithDoorSlot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/E3_WoodenWallWithWindow.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/E3_WoodenWallWithWindow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/E4_Wooden Floor.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/E4_Wooden Floor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/E_Jetstream Bowrider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/European Chandelier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/European Leather Chair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/F1_Metal Wall.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/F1_Metal Wall.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/F2_Metal Wall WIth Door.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/F2_Metal Wall WIth Door.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/F3_Metal Wall With Window.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/F3_Metal Wall With Window.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/F4_Metal Floor.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/F4_Metal Floor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/F_Marine Fast Boat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Fireplace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/French Sofa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/G1_Reinforced Wall.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/G1_Reinforced Wall.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/G2_Reinforced Wall With Door.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/G2_Reinforced Wall With Door.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/G3_Reinforced Wall With Window.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/G3_Reinforced Wall With Window.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/G4_Reinforced Door.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/G4_Reinforced Door.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/G5_Reinforced Window.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/G5_Reinforced Window.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/G_Helicopter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Green Leather Couch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Hanging Clocks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Humble Chair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Humble Sofa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Humble Table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/K1_Wallpaper (Blue).png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/K1_Wallpaper (Blue).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/K2_Wallpaper (Green).png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/K2_Wallpaper (Green).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/K3_Wallpaper (Yellow).png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/K3_Wallpaper (Yellow).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/L1_Floor Tile (European).png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/L1_Floor Tile (European).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/L2_Floor Tile (White Tiles).png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/L2_Floor Tile (White Tiles).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/L3_Floor Tile (Wooden).png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/L3_Floor Tile (Wooden).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Large Generator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Leather Suitcase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Log Desk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Makeup Table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Modern Floor Lamp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Modern Garden Lamp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Modern Lamp Post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Modern Wall Lamp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Plaid Couch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Premium Fireplace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Red Cloth Sofa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Round Glass Table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Round Table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Safe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Searchlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Simple Cabinet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Single Leather Couch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Single bed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Small Bench.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Solid Wood Cabinet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Square Table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/TV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Table Lamp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Vintage Leather Couch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Wall Spike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Wall Trap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Wallpaper With Door.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/Wallpaper With Door.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Wallpaper With Door_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/Wallpaper With Door_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Wallpaper With Door_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/Wallpaper With Door_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Wallpaper With Window.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/Wallpaper With Window.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Wallpaper With Window_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/Wallpaper With Window_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Wallpaper With Window_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pieces/Wallpaper With Window_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pieces/Wooden Closet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Amuzement park.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Amuzement park.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/BOOK1 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/BOOK1 1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Checkmark.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Checkmark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Dreadville.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Dreadville.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Faraway Island.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Faraway Island.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Island.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Island.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Loner Base 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Loner Base 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Loner Base 4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Loner Base 4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Loner Base.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Loner Base.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Police Station.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Police Station.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Radio Island.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Radio Island.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Refinery.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Refinery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Repairing.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Repairing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Slavers.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Slavers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Sunken ship.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Sunken ship.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/The Bridge.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/The Bridge.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Tutorial_Category 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Tutorial_Category 1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/Tutorial_Category 3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/Tutorial_Category 3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/arrow_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/arrow_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/atol3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/atol3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/atol5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/atol5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/atol9 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/atol9 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/atol9 3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/atol9 3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/gasmask 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/gasmask 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/icon mission.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/icon mission.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites/ship.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sprites/ship.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/darkfx/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/darkfx/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AzumattDev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SunkenlandModding/SunkenlandModding.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;cdee62cd-25b8-4e3d-8e58-bafe16cb00b2&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/templates/modern/public/es-P4FFLVA3.min.js.map" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/templates/pdf.default/styles/docfx.vendor.min.css.map" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2o6E1wdnu8gZIi0FDAircnPkgQF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a717b794-57e1-417e-81ed-fc87ec1132ac" name="Changes" comment="" />
+      <created>1730181415208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730181415208</updated>
+      <workItem from="1730181416469" duration="300000" />
+      <workItem from="1730181783918" duration="716000" />
+      <workItem from="1730183133460" duration="1485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
